@@ -56,5 +56,28 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 📍 Region-Specific Dashboards : Instead of generic dashboards, each region will have customized views tailored to their needs.
 
 
+## 📌 Conclusion
+
+GoodCabs’ challenges reflect the limits of a legacy data platform that cannot keep up with growing business demands. While stable, the system lacked the speed, flexibility, and scalability needed for effective regional operations.
+
+By adopting a modern Lakehouse architecture on Databricks, this project transforms the platform into a more agile and scalable solution. With faster data delivery, automated processing, and region-specific insights, GoodCabs can better support decision-making and future growth.
+
+## 🧑‍💻 About Me
+&nbsp;&nbsp;&nbsp; I’m a passionate data enthusiast eager to expand my expertise beyond analytics into data engineering. This portfolio showcases my journey into the world of data warehousing, where I design ETL pipelines, build dimensional models, and integrate multiple data sources to create centralized repositories for analytics and reporting.
+
+Thank you for visiting my Data Analysis Portfolio! I hope you find my projects informative and insightful.
+&nbsp;
+
+&nbsp;
+## 🌐 For Contact and Business:
+
+If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mohammed-herradi) 
+[![Upwork](https://img.shields.io/badge/Upwork-%2300A3EC.svg?logo=upwork&logoColor=white)](https://www.upwork.com/) 
+[![Fiverr](https://img.shields.io/badge/Fiverr-%2300B22D.svg?logo=fiverr&logoColor=white)](https://www.fiverr.com/)
+
+
+
 
 
