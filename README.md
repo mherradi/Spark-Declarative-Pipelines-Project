@@ -39,5 +39,11 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 &nbsp;
 
 <img width="1407" height="781" alt="Good Cabs drawio (1)" src="https://github.com/user-attachments/assets/76194bc2-138e-4f2b-8740-8da06a53dcf4" />
+&nbsp;
+
+&nbsp;
+<img width="1244" height="782" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/f6495cd5-484b-4422-bf1e-4101bee45c27" />
+
+
 
 
