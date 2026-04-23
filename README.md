@@ -41,8 +41,19 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 <img width="1407" height="781" alt="Good Cabs drawio (1)" src="https://github.com/user-attachments/assets/76194bc2-138e-4f2b-8740-8da06a53dcf4" />
 &nbsp;
 
-&nbsp;
 <img width="1244" height="782" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/f6495cd5-484b-4422-bf1e-4101bee45c27" />
+&nbsp;
+
+&nbsp;
+## 📊 Expected Business Impact
+
+🚀 Faster Regional Reporting : After modernization, data pipelines will process and deliver data much faster thanks to optimized execution and incremental updates.
+
+🔄 Automated Incremental Updates : The new platform will process only new or changed data, rather than reprocessing entire datasets every time.
+
+🧹 Reduced Manual Data Manipulation : Currently, regional teams export data and rework it manually (Excel, spreadsheets, etc.).
+
+📍 Region-Specific Dashboards : Instead of generic dashboards, each region will have customized views tailored to their needs.
 
 
 
