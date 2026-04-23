@@ -54,14 +54,18 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 🧹 Reduced Manual Data Manipulation : Currently, regional teams export data and rework it manually (Excel, spreadsheets, etc.).
 
 📍 Region-Specific Dashboards : Instead of generic dashboards, each region will have customized views tailored to their needs.
+&nbsp;
 
-
+&nbsp;
 ## 📌 Conclusion
 
 GoodCabs’ challenges reflect the limits of a legacy data platform that cannot keep up with growing business demands. While stable, the system lacked the speed, flexibility, and scalability needed for effective regional operations.
 
 By adopting a modern Lakehouse architecture on Databricks, this project transforms the platform into a more agile and scalable solution. With faster data delivery, automated processing, and region-specific insights, GoodCabs can better support decision-making and future growth.
 
+&nbsp;
+
+&nbsp;
 ## 🧑‍💻 About Me
 &nbsp;&nbsp;&nbsp; I’m a passionate data enthusiast eager to expand my expertise beyond analytics into data engineering. This portfolio showcases my journey into the world of data warehousing, where I design ETL pipelines, build dimensional models, and integrate multiple data sources to create centralized repositories for analytics and reporting.
 
